@@ -19,7 +19,7 @@ Add the dependency:
 
 ```gradle
 dependencies {
-    compile 'com.github.HaoyuHu:Bundleless:v1.0'
+    compile 'com.github.HaoyuHu:Bundleless:v1.1'
 }
 ```
 
@@ -41,7 +41,7 @@ Add the dependency:
 <dependency>
     <groupId>com.github.HaoyuHu</groupId>
     <artifactId>Bundleless</artifactId>
-    <version>v1.0</version>
+    <version>v1.1</version>
 </dependency>
 ```
 
