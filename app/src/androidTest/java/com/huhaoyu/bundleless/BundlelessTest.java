@@ -19,7 +19,7 @@ public class BundlelessTest extends TestCase {
 
     public void setUp() throws Exception {
         super.setUp();
-         out = new OutClass(0.5, 1, "hello");
+        out = new OutClass(0.5, 1, "hello");
         OutClass.InnerClass inner = new OutClass.InnerClass();
         out.add(inner);
         out.add("world", 2);
